@@ -1,0 +1,9 @@
+.item{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+.options img{
+    cursor: pointer;
+    height: 25px;
+}
